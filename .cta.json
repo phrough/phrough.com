@@ -1,0 +1,24 @@
+{
+  "projectName": "phrough.com",
+  "mode": "file-router",
+  "typescript": true,
+  "tailwind": true,
+  "packageManager": "pnpm",
+  "git": true,
+  "version": 1,
+  "framework": "react-cra",
+  "chosenAddOns": [
+    "eslint",
+    "clerk",
+    "form",
+    "shadcn",
+    "start",
+    "tRPC",
+    "table",
+    "tanstack-query",
+    "store",
+    "t3env",
+    "sentry",
+    "db"
+  ]
+}
